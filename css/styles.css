@@ -3,7 +3,7 @@
     background-color: aliceblue;
 }
 
-div{
+.container{
     width: 100%,auto;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     border-color: bisque;
@@ -12,6 +12,10 @@ div{
     
 }
 
+.cabezera{
+
+    
+}
 h2{
     width: 100%;
     text-align: center;
