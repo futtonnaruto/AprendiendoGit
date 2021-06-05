@@ -1,0 +1,20 @@
+*{
+
+    background-color: aliceblue;
+}
+
+div{
+    width: 100%,auto;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-color: bisque;
+    border-style: solid;
+    
+}
+
+h2{
+    width: 100%;
+    text-align: center;
+    font-size:35px;
+
+}
+
